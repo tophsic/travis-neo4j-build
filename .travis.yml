@@ -1,0 +1,11 @@
+language: php
+php:
+  - '5.5'
+
+services:
+  - neo4j
+
+sudo: false
+
+script: true
+
