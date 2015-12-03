@@ -5,7 +5,5 @@ php:
 services:
   - neo4j
 
-sudo: false
-
 script: true
 
